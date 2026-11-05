@@ -1,0 +1,253 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="676" viewBox="0 0 1200 676" role="img" aria-labelledby="title desc">
+  <title id="title">Skills and expertise</title>
+  <desc id="desc">01 Product Management &amp; Strategy: Product Planning, Requirement Analysis, Feature Planning, Product Lifecycle Management, Business Requirement Understanding, Task Prioritization, Sprint Planning, Delivery Coordination, Release Planning, Stakeholder Communication. 02 Project &amp; Team Management: Team Leadership, Task Allocation, Team Coordination, Development Planning, Code Review Management, Progress Tracking, Project Execution, Problem Solving, Developer Mentoring. 03 Frontend Development: Angular, Angular Standalone, TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap 5, ng-bootstrap, ng-select, CKEditor 5, ApexCharts, FullCalendar, Swiper. 04 Backend &amp; Database: Node.js, Express.js, REST APIs, PHP, MySQL 8, PostgreSQL, SQL, Prisma, JWT Authentication, Database Design, Query Optimization. 05 DevOps &amp; Infrastructure: Git, GitHub, GitLab, CI/CD, PM2, Linux VPS, Hostinger, GoDaddy, Server Management, Staging &amp; Production, Deployment Management. 06 Integrations &amp; Services: Razorpay, Firebase, Google reCAPTCHA, Facebook SDK, Nodemailer, PHPMailer, PDFKit, SMTP Integration, Payment Gateway Integration, Third-party APIs.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .panel { fill: #0f172a; stroke: #1e293b; }
+    .num { font-size: 13px; font-weight: 700; letter-spacing: 2px; fill: #94a3b8; }
+    .title { font-size: 19px; font-weight: 700; fill: #f1f5f9; }
+    .chip rect { fill: #16223d; stroke: #2b3b5e; }
+    .chip text { font-size: 14px; font-weight: 500; fill: #e2e8f0; }
+    .in { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .chip.in { animation-name: pop; }
+    @keyframes pop { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+  </style>
+    <g class="card in" style="animation-delay:0.10s">
+      <rect class="panel" x="0.5" y="0.5" width="385.7" height="365" rx="16"/>
+      <rect x="24.0" y="26" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="56.0" y="32">01</text>
+      <text class="title" x="24.0" y="62">Product Management &amp; Strategy</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.350s" transform="translate(24.0 84.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">Product Planning</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.385s" transform="translate(175.0 84.0)">
+        <rect width="173" height="30" rx="15"/><text x="86.5" y="20" text-anchor="middle">Requirement Analysis</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.420s" transform="translate(24.0 122.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">Feature Planning</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.455s" transform="translate(24.0 160.0)">
+        <rect width="232" height="30" rx="15"/><text x="116" y="20" text-anchor="middle">Product Lifecycle Management</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.490s" transform="translate(24.0 198.0)">
+        <rect width="277" height="30" rx="15"/><text x="138.5" y="20" text-anchor="middle">Business Requirement Understanding</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.525s" transform="translate(24.0 236.0)">
+        <rect width="165" height="30" rx="15"/><text x="82.5" y="20" text-anchor="middle">Task Prioritization</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.560s" transform="translate(197.0 236.0)">
+        <rect width="136" height="30" rx="15"/><text x="68" y="20" text-anchor="middle">Sprint Planning</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.595s" transform="translate(24.0 274.0)">
+        <rect width="180" height="30" rx="15"/><text x="90" y="20" text-anchor="middle">Delivery Coordination</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.630s" transform="translate(212.0 274.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">Release Planning</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.665s" transform="translate(24.0 312.0)">
+        <rect width="210" height="30" rx="15"/><text x="105" y="20" text-anchor="middle">Stakeholder Communication</text>
+      </g>
+
+    <g class="card in" style="animation-delay:0.22s">
+      <rect class="panel" x="407.2" y="0.5" width="385.7" height="365" rx="16"/>
+      <rect x="430.7" y="26" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="462.7" y="32">02</text>
+      <text class="title" x="430.7" y="62">Project &amp; Team Management</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.470s" transform="translate(430.7 84.0)">
+        <rect width="136" height="30" rx="15"/><text x="68" y="20" text-anchor="middle">Team Leadership</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.505s" transform="translate(574.7 84.0)">
+        <rect width="136" height="30" rx="15"/><text x="68" y="20" text-anchor="middle">Task Allocation</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.540s" transform="translate(430.7 122.0)">
+        <rect width="151" height="30" rx="15"/><text x="75.5" y="20" text-anchor="middle">Team Coordination</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.575s" transform="translate(589.7 122.0)">
+        <rect width="173" height="30" rx="15"/><text x="86.5" y="20" text-anchor="middle">Development Planning</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.610s" transform="translate(430.7 160.0)">
+        <rect width="188" height="30" rx="15"/><text x="94" y="20" text-anchor="middle">Code Review Management</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.645s" transform="translate(430.7 198.0)">
+        <rect width="151" height="30" rx="15"/><text x="75.5" y="20" text-anchor="middle">Progress Tracking</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.680s" transform="translate(589.7 198.0)">
+        <rect width="151" height="30" rx="15"/><text x="75.5" y="20" text-anchor="middle">Project Execution</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.715s" transform="translate(430.7 236.0)">
+        <rect width="136" height="30" rx="15"/><text x="68" y="20" text-anchor="middle">Problem Solving</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.750s" transform="translate(574.7 236.0)">
+        <rect width="165" height="30" rx="15"/><text x="82.5" y="20" text-anchor="middle">Developer Mentoring</text>
+      </g>
+
+    <g class="card in" style="animation-delay:0.34s">
+      <rect class="panel" x="813.8" y="0.5" width="385.7" height="365" rx="16"/>
+      <rect x="837.3" y="26" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="869.3" y="32">03</text>
+      <text class="title" x="837.3" y="62">Frontend Development</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.590s" transform="translate(837.3 84.0)">
+        <rect width="76" height="30" rx="15"/><text x="38" y="20" text-anchor="middle">Angular</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.625s" transform="translate(921.3 84.0)">
+        <rect width="158" height="30" rx="15"/><text x="79" y="20" text-anchor="middle">Angular Standalone</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.660s" transform="translate(837.3 122.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">TypeScript</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.695s" transform="translate(944.3 122.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">JavaScript</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.730s" transform="translate(1051.3 122.0)">
+        <rect width="62" height="30" rx="15"/><text x="31" y="20" text-anchor="middle">HTML5</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.765s" transform="translate(1121.3 122.0)">
+        <rect width="54" height="30" rx="15"/><text x="27" y="20" text-anchor="middle">CSS3</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.800s" transform="translate(837.3 160.0)">
+        <rect width="54" height="30" rx="15"/><text x="27" y="20" text-anchor="middle">SCSS</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.835s" transform="translate(899.3 160.0)">
+        <rect width="106" height="30" rx="15"/><text x="53" y="20" text-anchor="middle">Bootstrap 5</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.870s" transform="translate(1013.3 160.0)">
+        <rect width="114" height="30" rx="15"/><text x="57" y="20" text-anchor="middle">ng-bootstrap</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.905s" transform="translate(837.3 198.0)">
+        <rect width="91" height="30" rx="15"/><text x="45.5" y="20" text-anchor="middle">ng-select</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.940s" transform="translate(936.3 198.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">CKEditor 5</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.975s" transform="translate(1043.3 198.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">ApexCharts</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.010s" transform="translate(837.3 236.0)">
+        <rect width="114" height="30" rx="15"/><text x="57" y="20" text-anchor="middle">FullCalendar</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.045s" transform="translate(959.3 236.0)">
+        <rect width="69" height="30" rx="15"/><text x="34.5" y="20" text-anchor="middle">Swiper</text>
+      </g>
+
+    <g class="card in" style="animation-delay:0.46s">
+      <rect class="panel" x="0.5" y="386.5" width="385.7" height="289" rx="16"/>
+      <rect x="24.0" y="412" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="56.0" y="418">04</text>
+      <text class="title" x="24.0" y="448">Backend &amp; Database</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.710s" transform="translate(24.0 470.0)">
+        <rect width="76" height="30" rx="15"/><text x="38" y="20" text-anchor="middle">Node.js</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.745s" transform="translate(108.0 470.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">Express.js</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.780s" transform="translate(215.0 470.0)">
+        <rect width="91" height="30" rx="15"/><text x="45.5" y="20" text-anchor="middle">REST APIs</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.815s" transform="translate(314.0 470.0)">
+        <rect width="47" height="30" rx="15"/><text x="23.5" y="20" text-anchor="middle">PHP</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.850s" transform="translate(24.0 508.0)">
+        <rect width="76" height="30" rx="15"/><text x="38" y="20" text-anchor="middle">MySQL 8</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.885s" transform="translate(108.0 508.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">PostgreSQL</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.920s" transform="translate(215.0 508.0)">
+        <rect width="47" height="30" rx="15"/><text x="23.5" y="20" text-anchor="middle">SQL</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.955s" transform="translate(270.0 508.0)">
+        <rect width="69" height="30" rx="15"/><text x="34.5" y="20" text-anchor="middle">Prisma</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.990s" transform="translate(24.0 546.0)">
+        <rect width="158" height="30" rx="15"/><text x="79" y="20" text-anchor="middle">JWT Authentication</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.025s" transform="translate(190.0 546.0)">
+        <rect width="136" height="30" rx="15"/><text x="68" y="20" text-anchor="middle">Database Design</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.060s" transform="translate(24.0 584.0)">
+        <rect width="158" height="30" rx="15"/><text x="79" y="20" text-anchor="middle">Query Optimization</text>
+      </g>
+
+    <g class="card in" style="animation-delay:0.58s">
+      <rect class="panel" x="407.2" y="386.5" width="385.7" height="289" rx="16"/>
+      <rect x="430.7" y="412" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="462.7" y="418">05</text>
+      <text class="title" x="430.7" y="448">DevOps &amp; Infrastructure</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.830s" transform="translate(430.7 470.0)">
+        <rect width="47" height="30" rx="15"/><text x="23.5" y="20" text-anchor="middle">Git</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.865s" transform="translate(485.7 470.0)">
+        <rect width="69" height="30" rx="15"/><text x="34.5" y="20" text-anchor="middle">GitHub</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.900s" transform="translate(562.7 470.0)">
+        <rect width="69" height="30" rx="15"/><text x="34.5" y="20" text-anchor="middle">GitLab</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.935s" transform="translate(639.7 470.0)">
+        <rect width="62" height="30" rx="15"/><text x="31" y="20" text-anchor="middle">CI/CD</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.970s" transform="translate(709.7 470.0)">
+        <rect width="47" height="30" rx="15"/><text x="23.5" y="20" text-anchor="middle">PM2</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.005s" transform="translate(430.7 508.0)">
+        <rect width="91" height="30" rx="15"/><text x="45.5" y="20" text-anchor="middle">Linux VPS</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.040s" transform="translate(529.7 508.0)">
+        <rect width="91" height="30" rx="15"/><text x="45.5" y="20" text-anchor="middle">Hostinger</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.075s" transform="translate(628.7 508.0)">
+        <rect width="76" height="30" rx="15"/><text x="38" y="20" text-anchor="middle">GoDaddy</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.110s" transform="translate(430.7 546.0)">
+        <rect width="151" height="30" rx="15"/><text x="75.5" y="20" text-anchor="middle">Server Management</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.145s" transform="translate(589.7 546.0)">
+        <rect width="173" height="30" rx="15"/><text x="86.5" y="20" text-anchor="middle">Staging &amp; Production</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.180s" transform="translate(430.7 584.0)">
+        <rect width="180" height="30" rx="15"/><text x="90" y="20" text-anchor="middle">Deployment Management</text>
+      </g>
+
+    <g class="card in" style="animation-delay:0.70s">
+      <rect class="panel" x="813.8" y="386.5" width="385.7" height="289" rx="16"/>
+      <rect x="837.3" y="412" width="22" height="4" rx="2" fill="#9085e9"/>
+      <text class="num" x="869.3" y="418">06</text>
+      <text class="title" x="837.3" y="448">Integrations &amp; Services</text>
+    </g>
+      <g class="chip in" style="animation-delay:0.950s" transform="translate(837.3 470.0)">
+        <rect width="84" height="30" rx="15"/><text x="42" y="20" text-anchor="middle">Razorpay</text>
+      </g>
+      <g class="chip in" style="animation-delay:0.985s" transform="translate(929.3 470.0)">
+        <rect width="84" height="30" rx="15"/><text x="42" y="20" text-anchor="middle">Firebase</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.020s" transform="translate(1021.3 470.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">Google reCAPTCHA</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.055s" transform="translate(837.3 508.0)">
+        <rect width="114" height="30" rx="15"/><text x="57" y="20" text-anchor="middle">Facebook SDK</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.090s" transform="translate(959.3 508.0)">
+        <rect width="99" height="30" rx="15"/><text x="49.5" y="20" text-anchor="middle">Nodemailer</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.125s" transform="translate(1066.3 508.0)">
+        <rect width="91" height="30" rx="15"/><text x="45.5" y="20" text-anchor="middle">PHPMailer</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.160s" transform="translate(837.3 546.0)">
+        <rect width="69" height="30" rx="15"/><text x="34.5" y="20" text-anchor="middle">PDFKit</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.195s" transform="translate(914.3 546.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">SMTP Integration</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.230s" transform="translate(837.3 584.0)">
+        <rect width="225" height="30" rx="15"/><text x="112.5" y="20" text-anchor="middle">Payment Gateway Integration</text>
+      </g>
+      <g class="chip in" style="animation-delay:1.265s" transform="translate(837.3 622.0)">
+        <rect width="143" height="30" rx="15"/><text x="71.5" y="20" text-anchor="middle">Third-party APIs</text>
+      </g>
+</svg>

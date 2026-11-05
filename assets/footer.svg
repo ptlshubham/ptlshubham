@@ -1,36 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title">
-  <title id="title">Build thoughtfully. Lead collaboratively. Ship reliably.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">Understand the problem. Plan the right solution. Build with purpose. Deliver with ownership.</title>
   <defs>
     <linearGradient id="waveA" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#6366f1"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
       <stop offset="1" stop-color="#6366f1"/>
     </linearGradient>
-    <clipPath id="card"><rect width="1200" height="140" rx="18"/></clipPath>
+    <clipPath id="card"><rect width="1200" height="150" rx="18"/></clipPath>
   </defs>
   <style>
     .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .wave  { animation: slide 16s linear infinite; }
     .wave2 { animation-duration: 24s; animation-direction: reverse; }
     @keyframes slide { to { transform: translateX(-1200px); } }
-    .w { fill-opacity: 0.35; animation: word 6s ease-in-out infinite; }
-    .w2 { animation-delay: 2s; } .w3 { animation-delay: 4s; }
-    @keyframes word { 0%, 100% { fill-opacity: 0.35; } 15%, 35% { fill-opacity: 1; } }
+    /* each phrase lights up in turn: 8s cycle, 2s per phrase */
+    .w { fill-opacity: 0.35; animation: word 8s ease-in-out infinite; }
+    .w2 { animation-delay: 2s; } .w3 { animation-delay: 4s; } .w4 { animation-delay: 6s; }
+    @keyframes word { 0%, 32%, 100% { fill-opacity: 0.35; } 6%, 22% { fill-opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { .wave, .w { animation: none; fill-opacity: 1; } }
   </style>
   <g clip-path="url(#card)">
-    <rect width="1200" height="140" fill="#0b1022"/>
+    <rect width="1200" height="150" fill="#0b1022"/>
     <path class="wave2" fill="url(#waveA)" opacity="0.16"
       d="M0 22 Q150 4 300 22 T600 22 T900 22 T1200 22 T1500 22 T1800 22 T2100 22 T2400 22 V0 H0 Z"/>
     <path class="wave" fill="url(#waveA)" opacity="0.30"
       d="M0 14 Q150 30 300 14 T600 14 T900 14 T1200 14 T1500 14 T1800 14 T2100 14 T2400 14 V0 H0 Z"/>
     <g class="sans" text-anchor="middle" font-size="22" font-weight="600" fill="#e2e8f0">
-      <text x="600" y="84">
-        <tspan class="w">Build thoughtfully.</tspan>
-        <tspan class="w w2" dx="10">Lead collaboratively.</tspan>
-        <tspan class="w w3" dx="10">Ship reliably.</tspan>
+      <text x="600" y="88">
+        <tspan class="w">Understand the problem.</tspan>
+        <tspan class="w w2" dx="8">Plan the right solution.</tspan>
+        <tspan class="w w3" dx="8">Build with purpose.</tspan>
+        <tspan class="w w4" dx="8">Deliver with ownership.</tspan>
       </text>
     </g>
-    <text class="sans" x="600" y="114" text-anchor="middle" font-size="13" letter-spacing="3" fill="#64748b">THANKS FOR VISITING</text>
+    <text class="sans" x="600" y="122" text-anchor="middle" font-size="13" letter-spacing="3" fill="#64748b">LET'S CREATE PRODUCTS THAT MAKE A DIFFERENCE</text>
   </g>
 </svg>

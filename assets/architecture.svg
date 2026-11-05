@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">How I build: full-stack architecture</title>
-  <desc id="desc">An Angular and TypeScript frontend calls a Node.js and Express REST API over HTTP. The API uses JWT authentication and talks to MySQL or PostgreSQL through SQL and Prisma. The API integrates Razorpay for payments, Nodemailer for email and PDFKit for documents. Delivery runs Git workflow, code review, CI/CD, staging, then production on PM2, Hostinger and GoDaddy.</desc>
+  <desc id="desc">An Angular and TypeScript frontend (SCSS, Bootstrap 5, ApexCharts) calls a Node.js and Express.js REST API over HTTP. The API uses JWT authentication and talks to MySQL 8 or PostgreSQL through SQL and Prisma. Integrations: Razorpay payments; Nodemailer, PHPMailer and SMTP email; PDFKit documents; Firebase and Google reCAPTCHA. Delivery runs Git workflow, code review, CI/CD, staging, then production on PM2, Linux VPS, Hostinger and GoDaddy.</desc>
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0 1 L9 5 L0 9 z" fill="#64748b"/>
@@ -33,7 +33,7 @@
     .stage { fill: #16223d; stroke: #2b3b5e; }
     .stext { font-size: 13.5px; font-weight: 600; fill: #e2e8f0; }
     .glide { animation: glide 4.5s cubic-bezier(.45,0,.55,1) infinite; }
-    @keyframes glide { 0% { transform: translateX(0); opacity: 0; } 10%, 90% { opacity: 1; } 100% { transform: translateX(720px); opacity: 0; } }
+    @keyframes glide { 0% { transform: translateX(0); opacity: 0; } 10%, 90% { opacity: 1; } 100% { transform: translateX(684px); opacity: 0; } }
     .live { transform-box: fill-box; transform-origin: center; animation: live 1.8s ease-out infinite; }
     @keyframes live { 0% { opacity: 0.7; transform: scale(1); } 100% { opacity: 0; transform: scale(2.8); } }
     .in { opacity: 0; animation: rise 0.7s ease-out forwards; }
@@ -57,7 +57,7 @@
       <text class="kicker" x="82" y="76">FRONTEND</text>
       <text class="head" x="62" y="112">Angular · TypeScript</text>
       <text class="line" x="62" y="140">Reusable components · Responsive UI</text>
-      <text class="line" x="62" y="164">HTML5 · CSS3 · Bootstrap</text>
+      <text class="line" x="62" y="164">SCSS · Bootstrap 5 · ApexCharts</text>
     </g>
 
     <!-- ── tier 2 · backend ────────────────────────────── -->
@@ -65,7 +65,7 @@
       <rect class="box" x="440" y="40" width="320" height="150" rx="14"/>
       <circle cx="468" cy="72" r="5" fill="#199e70"/>
       <text class="kicker" x="482" y="76">BACKEND · API</text>
-      <text class="head" x="462" y="112">Node.js · Express</text>
+      <text class="head" x="462" y="112">Node.js · Express.js</text>
       <text class="line" x="462" y="140">REST APIs · JWT authentication</text>
       <text class="line" x="462" y="164">Business logic · Role-based access</text>
     </g>
@@ -75,9 +75,9 @@
       <rect class="box" x="840" y="40" width="320" height="150" rx="14"/>
       <circle cx="868" cy="72" r="5" fill="#3987e5"/>
       <text class="kicker" x="882" y="76">DATA</text>
-      <text class="head" x="862" y="112">MySQL · PostgreSQL</text>
-      <text class="line" x="862" y="140">Schema design · SQL queries</text>
-      <text class="line" x="862" y="164">Prisma ORM · Data management</text>
+      <text class="head" x="862" y="112">MySQL 8 · PostgreSQL</text>
+      <text class="line" x="862" y="140">Database design · Query optimization</text>
+      <text class="line" x="862" y="164">Prisma ORM · SQL</text>
     </g>
 
     <!-- ── request / response lanes ────────────────────── -->
@@ -98,39 +98,43 @@
     </g>
 
     <!-- ── integrations ────────────────────────────────── -->
-    <path class="wire" d="M600 190 V214 M360 214 H840 M360 214 V238 M600 214 V238 M840 214 V238"/>
+    <path class="wire" d="M600 190 V214 M255 214 H945 M255 214 V238 M485 214 V238 M715 214 V238 M945 214 V238"/>
     <g class="in d4" text-anchor="middle">
-      <rect class="pill" x="255" y="238" width="210" height="54" rx="12"/>
-      <text class="ptitle" x="360" y="261">Payments</text>
-      <text class="psub"   x="360" y="280">Razorpay</text>
+      <rect class="pill" x="150" y="238" width="210" height="54" rx="12"/>
+      <text class="ptitle" x="255" y="261">Payments</text>
+      <text class="psub"   x="255" y="280">Razorpay</text>
 
-      <rect class="pill" x="495" y="238" width="210" height="54" rx="12"/>
-      <text class="ptitle" x="600" y="261">Email</text>
-      <text class="psub"   x="600" y="280">Nodemailer</text>
+      <rect class="pill" x="380" y="238" width="210" height="54" rx="12"/>
+      <text class="ptitle" x="485" y="261">Email</text>
+      <text class="psub"   x="485" y="280">Nodemailer · PHPMailer · SMTP</text>
 
-      <rect class="pill" x="735" y="238" width="210" height="54" rx="12"/>
-      <text class="ptitle" x="840" y="261">Documents</text>
-      <text class="psub"   x="840" y="280">PDFKit</text>
+      <rect class="pill" x="610" y="238" width="210" height="54" rx="12"/>
+      <text class="ptitle" x="715" y="261">Documents</text>
+      <text class="psub"   x="715" y="280">PDFKit</text>
+
+      <rect class="pill" x="840" y="238" width="210" height="54" rx="12"/>
+      <text class="ptitle" x="945" y="261">Platform services</text>
+      <text class="psub"   x="945" y="280">Firebase · Google reCAPTCHA</text>
     </g>
 
     <!-- ── delivery strip ──────────────────────────────── -->
     <g class="in d5">
       <rect class="box" x="40" y="326" width="1120" height="60" rx="12"/>
       <text class="kicker" x="64" y="361">DELIVERY</text>
-      <line x1="160" y1="356" x2="880" y2="356" stroke="#2b3b5e" stroke-width="2"/>
+      <line x1="150" y1="356" x2="834" y2="356" stroke="#2b3b5e" stroke-width="2"/>
       <g clip-path="url(#strip)">
-        <circle class="glide" cx="160" cy="356" r="26" fill="url(#spark)"/>
+        <circle class="glide" cx="150" cy="356" r="26" fill="url(#spark)"/>
       </g>
       <g text-anchor="middle">
-        <rect class="stage" x="160" y="340" width="120" height="32" rx="16"/><text class="stext" x="220" y="361">Git workflow</text>
-        <rect class="stage" x="310" y="340" width="120" height="32" rx="16"/><text class="stext" x="370" y="361">Code review</text>
-        <rect class="stage" x="460" y="340" width="120" height="32" rx="16"/><text class="stext" x="520" y="361">CI/CD</text>
-        <rect class="stage" x="610" y="340" width="120" height="32" rx="16"/><text class="stext" x="670" y="361">Staging</text>
-        <rect class="stage" x="760" y="340" width="120" height="32" rx="16"/><text class="stext" x="828" y="361">Production</text>
+        <rect class="stage" x="150" y="340" width="116" height="32" rx="16"/><text class="stext" x="208" y="361">Git workflow</text>
+        <rect class="stage" x="292" y="340" width="116" height="32" rx="16"/><text class="stext" x="350" y="361">Code review</text>
+        <rect class="stage" x="434" y="340" width="116" height="32" rx="16"/><text class="stext" x="492" y="361">CI/CD</text>
+        <rect class="stage" x="576" y="340" width="116" height="32" rx="16"/><text class="stext" x="634" y="361">Staging</text>
+        <rect class="stage" x="718" y="340" width="116" height="32" rx="16"/><text class="stext" x="784" y="361">Production</text>
       </g>
-      <circle class="live" cx="778" cy="356" r="4" fill="#0ca30c"/>
-      <circle cx="778" cy="356" r="4" fill="#0ca30c"/>
-      <text class="line" x="1136" y="361" text-anchor="end">PM2 · Hostinger · GoDaddy</text>
+      <circle class="live" cx="734" cy="356" r="4" fill="#0ca30c"/>
+      <circle cx="734" cy="356" r="4" fill="#0ca30c"/>
+      <text class="line" x="1136" y="361" text-anchor="end">PM2 · Linux VPS · Hostinger · GoDaddy</text>
     </g>
   </g>
 </svg>

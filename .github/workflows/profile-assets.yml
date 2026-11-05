@@ -1,0 +1,54 @@
+# Builds the animated/visual assets used in README.md and publishes them to the `output` branch:
+#   github-snake*.svg      – contribution snake (Platane/snk)
+#   github-overview.svg    – stats + contribution streak   (.github/scripts/github-stats.mjs)
+#   github-activity.svg    – weekly contributions, last 52 weeks
+# Everything runs on the built-in GITHUB_TOKEN, so no third-party stats services are involved.
+name: Generate profile assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate GitHub stats cards
+        run: node .github/scripts/github-stats.mjs dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#6366f1&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#818cf8,#6366f1
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#1e3a5f,#1d6fa5,#22a3c9,#22d3ee
+
+      # Only reached if every step above succeeded, so a failed run never wipes the last good assets.
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

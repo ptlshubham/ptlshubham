@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
   <title id="title">At a glance</title>
-  <desc id="desc">7+ years of full-stack web development experience. 4 companies, from ScrumBees to ZarklyX. 5 product domains: SaaS, education, commerce, industry platforms and websites. 8+ named products and organizations, including ZarklyX, Flareo Payroll and Metalvyapar.</desc>
+  <desc id="desc">7+ years of product and software development experience. 4 companies, from ScrumBees to ZarklyX. 5 product domains: SaaS, education, commerce, industry platforms and websites. 8+ named products and organizations, including ZarklyX, Flareo Payroll and Metalvyapar.</desc>
   <style>
     .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .tile { fill: #0f172a; stroke: #1e293b; }
@@ -39,7 +39,7 @@
       <rect class="tile" x="40" y="10" width="265" height="150" rx="16"/>
       <text class="num" x="64" y="72">7+</text>
       <text class="lbl" x="64" y="104">Years of experience</text>
-      <text class="sub" x="64" y="126">Full-stack web development</text>
+      <text class="sub" x="64" y="126">Product &amp; software development</text>
       <rect class="bar b0" x="64" y="142" width="56" height="4" rx="2" fill="#9085e9"/>
     </g>
     <g class="t k1">

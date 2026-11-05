@@ -1,48 +1,65 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Shubham Patel — Product Management &amp; Development · Senior Full-Stack Developer" />
+  <img src="./assets/banner.svg" width="100%" alt="Shubham Patel — Product Management &amp; Development. Product Thinking. Technical Execution. Scalable Solutions." />
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Product Management &amp; Development @ ZarklyX · Senior Full-Stack Developer · Angular · TypeScript · Node.js · MySQL" />
+  <img src="./assets/typing.svg" alt="Product Management &amp; Development @ ZarklyX · Product Thinking · Technical Execution · Scalable Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://ptlshubham.github.io/"><img src="https://img.shields.io/badge/Portfolio-ptlshubham.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shubham-patel-bb5810b0/"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ptlshubham.github.io/"><img src="https://img.shields.io/badge/Portfolio-ptlshubham.github.io-7C6CF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shubham-patel-bb5810b0/"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Patel-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:ptlshubham@gmail.com"><img src="https://img.shields.io/badge/Email-ptlshubham%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ptlshubham"><img src="https://img.shields.io/badge/GitHub-ptlshubham-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ptlshubham&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Anand%2C%20Gujarat%2C%20India-22D3EE?style=flat-square" alt="Location: Anand, Gujarat, India" />
-  <img src="https://img.shields.io/badge/Open%20to-tech%20conversations-9085E9?style=flat-square" alt="Open to tech conversations" />
+  <img src="https://komarev.com/ghpvc/?username=ptlshubham&label=Profile%20views&color=7c6cf0&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Currently-ZarklyX-9085E9?style=flat-square" alt="Currently at ZarklyX" />
+  <img src="https://img.shields.io/badge/Location-Anand%2C%20Gujarat%2C%20India-6366F1?style=flat-square" alt="Location: Anand, Gujarat, India" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I work in **Product Management & Development** and I'm a **Senior Full-Stack Developer** with **7+ years of experience** building web applications and business-focused digital products.
+I'm Shubham Patel, a **Product Management & Development** professional with **7+ years of experience** building web applications, managing product development, and delivering business-focused digital solutions.
 
-At **[ZarklyX](https://zarklyx.com/)**, I work in Product Management & Development for an all-in-one agency management and operations SaaS platform that covers CRM, client portals, project management, HR and payroll, invoicing, and social media management. I work across the product lifecycle, from architecture and sprint planning to implementation, code reviews, and releases.
+I bridge product thinking and hands-on engineering to turn business ideas into scalable digital products. I work across the complete product lifecycle, from understanding business requirements and planning features to technical architecture, development, team coordination, and delivery.
 
-I stay hands-on with engineering while helping teams work effectively. I focus on maintainable code, practical technical decisions, better development workflows, and software that solves real business problems.
+At **[ZarklyX](https://zarklyx.com/)**, I take ownership of product management and development, connecting business requirements with technology to build scalable, maintainable software products. Coming from a strong software engineering background, I understand both sides of product development: what a business needs from a product, and how to build it.
 
-**My core stack:** Angular, TypeScript, Node.js, Express, MySQL, and SQL.
+- 🏢 **Current company:** ZarklyX
+- 🧰 **Core technologies:** Angular · Node.js · TypeScript · MySQL · SQL
+- 🔌 **Also work with:** API integrations, database architecture, authentication, payment gateways, deployment environments, and CI/CD workflows
+- 👥 **Mentoring:** Guided developers and headed the industrial internship program at KERYAR
+- 🗣️ **Languages:** English, Hindi, and Gujarati
+- 📍 **Location:** Anand, Gujarat, India
 
-- 🔭 Currently in **Product Management & Development at ZarklyX**, focused on product planning and technical delivery.
-- 💼 Previously a **Senior Web Developer at KERYAR**, where I also headed the industrial internship program and mentored interns.
-- 🏗️ Experienced in full-stack development, API architecture, database design, and deployment.
-- 👥 Interested in engineering leadership, mentoring, and building high-performing development teams.
-- 🗣️ Languages: English, Hindi, and Gujarati.
-- 📍 Anand, Gujarat, India.
+> **My philosophy:** Understand the problem. Plan the right solution. Build with purpose. Deliver with ownership.
 
 ## ⚡ At a Glance
 
 <p align="center">
   <img src="./assets/glance.svg" width="100%" alt="7+ years of experience · 4 companies, from ScrumBees to ZarklyX · 5 product domains · 8+ products and organizations" />
 </p>
+
+## 💼 Current Role
+
+### Product Management & Development · [ZarklyX](https://zarklyx.com/)
+
+**Product planning · Development · Engineering execution · Delivery**
+
+I lead and contribute to the complete product lifecycle, connecting business objectives with technical solutions and coordinating product development from initial requirements through production delivery.
+
+| Area | Key responsibilities |
+|---|---|
+| 🧭 **Product** | Manage product requirements and turn business needs into actionable development plans · Plan product features, development priorities, and sprint activities |
+| 🛠️ **Engineering** | Coordinate frontend and backend development · Shape technical architecture and choose the right development approach · Maintain code quality through development standards and code reviews |
+| 👥 **Team** | Manage development teams, task allocation, and delivery timelines · Work with clients and team members to resolve requirement and delivery challenges |
+| 🚀 **Delivery** | Coordinate product releases across staging and production · Improve development workflows, Git practices, and CI/CD processes · Own product improvements, technical issues, and development execution |
+
+**Stack:** `Angular` `TypeScript` `Node.js` `Express.js` `MySQL` `SQL` `Git` `CI/CD`
 
 ## 🧭 Career Journey
 
@@ -51,51 +68,54 @@ I stay hands-on with engineering while helping teams work effectively. I focus o
 </p>
 
 <details>
-<summary><b>View experience details</b></summary>
-<br />
+<summary><b>View previous experience</b></summary>
 
-| Period | Role | Organization | Highlights |
-|---|---|---|---|
-| **Present** | Product Management & Development | [ZarklyX](https://zarklyx.com/) | Product development for an agency management SaaS platform: architecture, sprint planning, task allocation, code reviews, and release coordination. |
-| **From Feb 2021** | Senior Web Developer | [KERYAR](https://keryar.com/), Anand | Angular frontends; Node.js and SQL backends; server management on Hostinger and GoDaddy; Git, GitHub, and GitLab workflows; **headed the industrial internship program** and supervised the intern team. |
-| **Aug 2020 – Oct 2020** | Web Developer | [SysTrack Solution Pvt. Ltd.](https://www.sys-track.com/), Vadodara | Angular front-end development, responsive design, performance optimization, testing and debugging, code reviews, and collaboration with UI/UX designers. |
-| **Oct 2018 – Apr 2019** | Web Developer (Intern) | [ScrumBees Technologies](http://www.scrumbees.com), Vadodara | Responsive pages in HTML, CSS, and JavaScript; company website maintenance; testing, bug fixing, and cross-browser compatibility. |
+#### Senior Web Developer · [KERYAR](https://keryar.com/) · From Feb 2021
+
+- Developed and maintained scalable web applications using Angular and JavaScript.
+- Built frontend interfaces and backend functionality using Node.js and SQL.
+- Developed business-oriented applications and client-specific solutions.
+- Integrated third-party APIs, payment gateways, and email services.
+- Managed hosting, server configurations, and application deployments.
+- Maintained GitHub and GitLab repositories and development workflows.
+- Guided developers and industrial interns on development activities.
+
+#### Web Developer · [SysTrack Solution Pvt. Ltd.](https://www.sys-track.com/) · Aug 2020 – Oct 2020
+
+- Developed responsive web application interfaces.
+- Implemented frontend components using Angular and JavaScript.
+- Converted UI designs into functional web pages.
+- Worked on debugging, performance improvements, and application maintenance.
+
+#### Web Developer Intern · [ScrumBees Technologies](http://www.scrumbees.com) · Oct 2018 – Apr 2019
+
+- Developed responsive websites using HTML, CSS, and JavaScript.
+- Assisted with web application development and maintenance.
+- Implemented frontend requirements and UI enhancements.
+- Collaborated with developers to troubleshoot and resolve technical issues.
 
 </details>
 
-## 🚀 What I Work On
-
-- **Frontend Development:** Angular, TypeScript, JavaScript, responsive interfaces, reusable components, and UI integration.
-- **Backend Development:** Node.js, Express, REST APIs, authentication, and business logic.
-- **Databases:** MySQL, PostgreSQL, SQL queries, schema design, and data management.
-- **Product Engineering:** Translating business requirements into practical, maintainable software.
-- **Project & Technical Leadership:** Architecture discussions, sprint planning, task allocation, code reviews, mentoring, and release coordination.
-- **Delivery & Operations:** Git, GitHub, GitLab workflows, CI/CD, staging and production environments, server management, and deployments.
-
-## 🏗️ How I Build
+## 🧩 Skills & Expertise
 
 <p align="center">
-  <img src="./assets/architecture.svg" width="100%" alt="Architecture: Angular frontend to Node.js and Express API to MySQL and PostgreSQL, with Razorpay, Nodemailer and PDFKit integrations and a Git, code review, CI/CD, staging and production delivery pipeline" />
+  <img src="./assets/skills.svg" width="100%" alt="Skills in six categories: Product Management and Strategy, Project and Team Management, Frontend Development, Backend and Database, DevOps and Infrastructure, Integrations and Services" />
 </p>
 
-## 🔄 How I Ship
+<details>
+<summary><b>View skills as text</b></summary>
+<br />
 
-```mermaid
-flowchart LR
-    subgraph PLAN["🧭 Plan"]
-        direction TB
-        A["Business requirements"] --> B["Architecture and estimates"] --> C["Sprint planning and task allocation"]
-    end
-    subgraph BUILD["🛠️ Build"]
-        direction TB
-        D["Angular + Node.js + SQL development"] --> E["Code review"] --> F["QA on staging"]
-    end
-    subgraph SHIP["🚀 Ship"]
-        direction TB
-        G["Production release"] --> H["Monitoring and post-release support"] --> I["🔁 Feedback into the next sprint"]
-    end
-    PLAN --> BUILD --> SHIP
-```
+| Category | Skills |
+|---|---|
+| **01 · Product Management & Strategy** | Product Planning · Requirement Analysis · Feature Planning · Product Lifecycle Management · Business Requirement Understanding · Task Prioritization · Sprint Planning · Delivery Coordination · Release Planning · Stakeholder Communication |
+| **02 · Project & Team Management** | Team Leadership · Task Allocation · Team Coordination · Development Planning · Code Review Management · Progress Tracking · Project Execution · Problem Solving · Developer Mentoring |
+| **03 · Frontend Development** | Angular · Angular Standalone · TypeScript · JavaScript · HTML5 · CSS3 · SCSS · Bootstrap 5 · ng-bootstrap · ng-select · CKEditor 5 · ApexCharts · FullCalendar · Swiper |
+| **04 · Backend & Database** | Node.js · Express.js · REST APIs · PHP · MySQL 8 · PostgreSQL · SQL · Prisma · JWT Authentication · Database Design · Query Optimization |
+| **05 · DevOps & Infrastructure** | Git · GitHub · GitLab · CI/CD · PM2 · Linux VPS · Hostinger · GoDaddy · Server Management · Staging & Production · Deployment Management |
+| **06 · Integrations & Services** | Razorpay · Firebase · Google reCAPTCHA · Facebook SDK · Nodemailer · PHPMailer · PDFKit · SMTP Integration · Payment Gateway Integration · Third-party APIs |
+
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -105,57 +125,157 @@ flowchart LR
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL 8](https://img.shields.io/badge/MySQL%208-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Linux%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Integrations & Hosting**
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white)
+![Facebook SDK](https://img.shields.io/badge/Facebook%20SDK-0866FF?style=flat-square&logo=facebook&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-777BB4?style=flat-square)
 ![PDFKit](https://img.shields.io/badge/PDFKit-E34F26?style=flat-square)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-6366F1?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-7C6CF0?style=flat-square)
 
-## 💡 Product & Project Experience
+## 🏗️ How I Build
 
-I've worked on web products across different business domains, including:
+<p align="center">
+  <img src="./assets/architecture.svg" width="100%" alt="Architecture: Angular frontend to Node.js and Express.js API to MySQL 8 and PostgreSQL, with Razorpay, email, PDFKit and Firebase integrations and a Git, code review, CI/CD, staging and production delivery pipeline" />
+</p>
 
-| Domain | Experience |
-|---|---|
-| SaaS & Business Software | Agency management, CRM and ERP-style platforms, client portals, multi-role admin panels, payroll workflows, and operational dashboards |
-| Education | School management systems and institutional websites |
-| Commerce & Bookings | E-commerce experiences, booking systems, and customer-facing portals |
-| Industry Platforms | Metal trading workflows and business operations software |
-| Websites & Integrations | Responsive websites, third-party APIs, payment, email, and document-generation integrations |
+## 🔄 How I Work
 
-Some of the products and organizations I've worked with include **ZarklyX, KERYAR, Flareo Payroll, Metalvyapar, Nextgen Metals, Arise Solar, Shree Sharda Kelavani Mandal, and [FOSTER X](https://fosterx.co/)**.
+```mermaid
+flowchart LR
+    subgraph U["🔍 Understand the problem"]
+        direction TB
+        A["Business requirements"] --> B["Requirement analysis"]
+    end
+    subgraph P["🧭 Plan the right solution"]
+        direction TB
+        C["Feature planning and prioritization"] --> D["Architecture and sprint planning"] --> E["Task allocation"]
+    end
+    subgraph BLD["🛠️ Build with purpose"]
+        direction TB
+        F["Frontend and backend development"] --> G["Code reviews and standards"] --> H["QA on staging"]
+    end
+    subgraph DLV["🚀 Deliver with ownership"]
+        direction TB
+        I["Release coordination"] --> J["Production support"] --> K["🔁 Improvements into the next sprint"]
+    end
+    U --> P --> BLD --> DLV
+```
 
-Not all of this work is open source or public, so this is a high-level overview, not a list of repositories.
+## 🚀 Featured Projects
 
-## 🧠 My Engineering Principles
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Maintainability first:** Write clear code and build architecture that fits the product.
+### 🏢 [ZarklyX](https://zarklyx.com/)
+**Agency Operations Platform** · _Current product_
+
+An integrated agency operations platform that brings multiple business workflows into one ecosystem: CRM, project management, social media, HR, payroll, accounting, SEO, analytics, and client portals.
+
+**My role:** Product Management & Development. Requirements, development planning, technical direction, team coordination, and delivery.
+
+`Angular` `Node.js` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 Flareo Payroll
+**Multi-tenant payroll SaaS**
+
+A multi-tenant Canadian payroll SaaS platform for managing payroll administration and employee workflows.
+
+**My role:** Full-stack development. Frontend implementation, backend services, authentication, and database integration.
+
+`Angular 20` `Bootstrap 5` `Express 4` `MySQL 8` `JWT` `PDFKit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Metalvyapar & Nextgen Metals
+**Metal trading platforms**
+
+Business-focused solutions for metal trading operations, customer management, and trading workflows.
+
+**My role:** Web development, business workflow implementation, and frontend and backend functionality.
+
+`Angular` `Node.js` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Shree Sharda Kelavani Mandal
+**Education**
+
+Educational institution website and web-based functionality supporting institutional communication and digital presence.
+
+**My role:** Web application development, frontend implementation, backend integration, and website maintenance.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce & Booking Platforms
+**Commerce and services**
+
+Customer-oriented web applications for online shopping, service bookings, and management workflows.
+
+**My role:** Application development, responsive interfaces, API integration, and database management.
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ Arise Solar & Other Business Websites
+**Business websites**
+
+Digital experiences and responsive websites for businesses across different industries, including [FOSTER X](https://fosterx.co/).
+
+**My role:** Frontend development, website functionality, integrations, and deployment.
+
+</td>
+</tr>
+</table>
+
+<sub>Most of this work is for clients and isn't open source, so these are summaries rather than links to public repositories.</sub>
+
+## 🧠 Principles
+
+- **Clear requirements first:** Successful products start with understanding the real problem.
+- **Practical planning:** Prioritize what matters and plan realistic, deliverable sprints.
+- **Maintainable engineering:** Write clear code and build architecture that fits the product.
 - **Ownership:** Think beyond implementation. Testing, code reviews, deployment, and post-release support matter too.
-- **Teamwork:** Encourage clear Git practices, useful reviews, realistic planning, and shared ownership.
-- **Continuous improvement:** Keep learning and improve tools and workflows as products evolve.
+- **Continuous improvement:** Keep improving tools, workflows, and Git practices as products evolve.
 
 ## 🎓 Education
 
@@ -167,16 +287,11 @@ Not all of this work is open source or public, so this is a high-level overview,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ptlshubham&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=6366f1&icon_color=22d3ee&text_color=8b949e" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptlshubham&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=8b949e" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/ptlshubham/ptlshubham/output/github-overview.svg" width="100%" alt="GitHub overview and contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ptlshubham&hide_border=true&background=00000000&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E40" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptlshubham&bg_color=00000000&color=8b949e&title_color=6366f1&line=6366f1&point=22d3ee&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/ptlshubham/ptlshubham/output/github-activity.svg" width="100%" alt="Weekly GitHub contributions over the last 52 weeks" />
 </p>
 
 <p align="center">
@@ -187,17 +302,21 @@ Not all of this work is open source or public, so this is a high-level overview,
   </picture>
 </p>
 
+<p align="center"><sub>Stats are generated daily by this repository's own GitHub Action, so they don't depend on any third-party stats service.</sub></p>
+
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Build Something Meaningful
 
-I'm always happy to exchange ideas about product engineering, Angular, Node.js, scalable web applications, and engineering leadership.
+I'm always interested in discussing innovative product ideas, exploring technology solutions, connecting with professionals, and collaborating on meaningful digital products.
 
-- 🌐 Portfolio: https://ptlshubham.github.io/
-- 💼 LinkedIn: https://www.linkedin.com/in/shubham-patel-bb5810b0/
-- 💻 GitHub: https://github.com/ptlshubham
-- 📧 Email: ptlshubham@gmail.com
+Whether you're planning a new product, looking for technical guidance, or exploring development opportunities, let's connect and turn ideas into solutions.
+
+- 🌐 **Portfolio:** https://ptlshubham.github.io/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shubham-patel-bb5810b0/
+- 💻 **GitHub:** https://github.com/ptlshubham
+- 📧 **Email:** ptlshubham@gmail.com
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Build thoughtfully. Lead collaboratively. Ship reliably." />
+  <img src="./assets/footer.svg" width="100%" alt="Understand the problem. Plan the right solution. Build with purpose. Deliver with ownership. Let's create products that make a difference." />
 </p>

@@ -259,7 +259,7 @@ Customer-oriented web applications for online shopping, service bookings, and ma
 ### ☀️ Arise Solar & Other Business Websites
 **Business websites**
 
-Digital experiences and responsive websites for businesses across different industries, including [FOSTER X](https://fosterx.co/).
+Digital experiences and responsive websites for businesses across different industries.
 
 **My role:** Frontend development, website functionality, integrations, and deployment.
 
@@ -267,7 +267,7 @@ Digital experiences and responsive websites for businesses across different indu
 </tr>
 </table>
 
-<sub>Most of this work is for clients and isn't open source, so these are summaries rather than links to public repositories.</sub>
+<sub>Other work includes the [FOSTER X](https://fosterx.co/) web application and websites for education, real-estate, construction, and manufacturing businesses; see the [portfolio](https://ptlshubham.github.io/#projects). Most of this work is for clients and isn't open source, so these are summaries rather than links to public repositories.</sub>
 
 ## 🧠 Principles
 

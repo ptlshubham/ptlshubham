@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">At a glance</title>
+  <desc id="desc">7+ years of full-stack web development experience. 4 companies, from ScrumBees to ZarklyX. 5 product domains: SaaS, education, commerce, industry platforms and websites. 8+ named products and organizations, including ZarklyX, Flareo Payroll and Metalvyapar.</desc>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .tile { fill: #0f172a; stroke: #1e293b; }
+    .num  { font-size: 46px; font-weight: 800; fill: #f1f5f9; }
+    .lbl  { font-size: 15px; font-weight: 700; fill: #e2e8f0; }
+    .sub  { font-size: 13px; fill: #94a3b8; }
+    .t { opacity: 0; animation: rise 0.7s cubic-bezier(.2,.7,.2,1) forwards; }
+    .bar { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: grow 0.9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .k0 { animation-delay: 0.10s; } .k1 { animation-delay: 0.30s; } .k2 { animation-delay: 0.50s; } .k3 { animation-delay: 0.70s; }
+    .b0 { animation-delay: 0.50s; } .b1 { animation-delay: 0.70s; } .b2 { animation-delay: 0.90s; } .b3 { animation-delay: 1.10s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    .shine { animation: shine 5s ease-in-out 1.6s infinite; opacity: 0; }
+    @keyframes shine { 0% { opacity: 0; transform: translateX(0); } 15% { opacity: 1; } 40%, 100% { opacity: 0; transform: translateX(1180px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .t, .bar, .shine { animation: none; }
+      .t { opacity: 1; } .bar { transform: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="tiles">
+      <rect x="40" y="10" width="265" height="150" rx="16"/>
+      <rect x="325" y="10" width="265" height="150" rx="16"/>
+      <rect x="610" y="10" width="265" height="150" rx="16"/>
+      <rect x="895" y="10" width="265" height="150" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g class="sans">
+    <g class="t k0">
+      <rect class="tile" x="40" y="10" width="265" height="150" rx="16"/>
+      <text class="num" x="64" y="72">7+</text>
+      <text class="lbl" x="64" y="104">Years of experience</text>
+      <text class="sub" x="64" y="126">Full-stack web development</text>
+      <rect class="bar b0" x="64" y="142" width="56" height="4" rx="2" fill="#9085e9"/>
+    </g>
+    <g class="t k1">
+      <rect class="tile" x="325" y="10" width="265" height="150" rx="16"/>
+      <text class="num" x="349" y="72">4</text>
+      <text class="lbl" x="349" y="104">Companies</text>
+      <text class="sub" x="349" y="126">ScrumBees → ZarklyX</text>
+      <rect class="bar b1" x="349" y="142" width="56" height="4" rx="2" fill="#9085e9"/>
+    </g>
+    <g class="t k2">
+      <rect class="tile" x="610" y="10" width="265" height="150" rx="16"/>
+      <text class="num" x="634" y="72">5</text>
+      <text class="lbl" x="634" y="104">Product domains</text>
+      <text class="sub" x="634" y="126">SaaS · Education · Commerce …</text>
+      <rect class="bar b2" x="634" y="142" width="56" height="4" rx="2" fill="#9085e9"/>
+    </g>
+    <g class="t k3">
+      <rect class="tile" x="895" y="10" width="265" height="150" rx="16"/>
+      <text class="num" x="919" y="72">8+</text>
+      <text class="lbl" x="919" y="104">Products &amp; organizations</text>
+      <text class="sub" x="919" y="126">ZarklyX · Flareo · Metalvyapar …</text>
+      <rect class="bar b3" x="919" y="142" width="56" height="4" rx="2" fill="#9085e9"/>
+    </g>
+
+    <g clip-path="url(#tiles)">
+      <rect class="shine" x="-140" y="10" width="140" height="150" fill="url(#sheen)"/>
+    </g>
+  </g>
+</svg>

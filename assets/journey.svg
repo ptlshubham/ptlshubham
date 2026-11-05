@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Career and education timeline</title>
+  <desc id="desc">2016: Diploma in Computer Engineering, Balasinor College of Polytechnic. Oct 2018: Web Developer Intern, ScrumBees Technologies, Vadodara. 2019: B.E. in Computer Science, KJ Institute of Engineering and Technology. Aug 2020: Web Developer, SysTrack Solution Pvt. Ltd., Vadodara. Feb 2021: Senior Web Developer, KERYAR, Anand, also leading the intern program. Now: Product Management &amp; Development at ZarklyX, an agency SaaS platform.</desc>
+  <defs>
+    <!-- userSpaceOnUse: a horizontal line has a zero-height bbox, so bbox units would not paint -->
+    <linearGradient id="progress" gradientUnits="userSpaceOnUse" x1="140" y1="0" x2="1030" y2="0">
+      <stop offset="0" stop-color="#199e70"/>
+      <stop offset="1" stop-color="#9085e9"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .date  { font-size: 12px; font-weight: 700; letter-spacing: 1.6px; fill: #94a3b8; }
+    .role  { font-size: 15px; font-weight: 700; fill: #f1f5f9; }
+    .org   { font-size: 13px; fill: #94a3b8; }
+    .stem  { stroke: #334155; stroke-width: 1.5; }
+    .work  { fill: #9085e9; }
+    .edu   { fill: #199e70; }
+    .ring  { stroke: #0f172a; stroke-width: 4; }
+
+    .track { stroke-dasharray: 960; stroke-dashoffset: 960; animation: draw 2.6s cubic-bezier(.4,0,.2,1) 0.2s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+
+    .node { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop 0.55s cubic-bezier(.3,1.6,.5,1) forwards; }
+    @keyframes pop { from { opacity: 0; transform: scale(0.2); } to { opacity: 1; transform: scale(1); } }
+    .label { opacity: 0; animation: fade 0.7s ease-out forwards; }
+    .up   { --dy: 10px; } .down { --dy: -10px; }
+    @keyframes fade { from { opacity: 0; transform: translateY(var(--dy)); } to { opacity: 1; transform: none; } }
+    .s0 { animation-delay: 0.30s; } .s1 { animation-delay: 0.72s; } .s2 { animation-delay: 1.14s; }
+    .s3 { animation-delay: 1.56s; } .s4 { animation-delay: 1.98s; } .s5 { animation-delay: 2.40s; }
+
+    .pulse { transform-box: fill-box; transform-origin: center; fill: none; stroke: #9085e9; stroke-width: 2; animation: pulse 2.2s ease-out 3s infinite; opacity: 0; }
+    @keyframes pulse { 0% { opacity: 0.8; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    .next { stroke-dasharray: 4 7; animation: march 1.2s linear infinite; }
+    @keyframes march { to { stroke-dashoffset: -11; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .track, .node, .label, .pulse, .next { animation: none; }
+      .track { stroke-dashoffset: 0; }
+      .node, .label { opacity: 1; }
+    }
+  </style>
+
+  <rect width="1200" height="360" rx="18" fill="#0f172a"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" fill="none" stroke="#1e293b"/>
+
+  <!-- axis -->
+  <line x1="140" y1="180" x2="1030" y2="180" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+  <line class="track" x1="140" y1="180" x2="1030" y2="180" stroke="url(#progress)" stroke-width="4" stroke-linecap="round"/>
+  <line class="next" x1="1046" y1="180" x2="1150" y2="180" stroke="#475569" stroke-width="2"/>
+  <path d="M1146 174 L1154 180 L1146 186" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g class="sans" text-anchor="middle">
+    <!-- 0 · 2016 · Diploma (above) -->
+    <g class="label up s0">
+      <text class="date" x="140" y="76">2016</text>
+      <text class="role" x="140" y="100">Diploma, Computer Engineering</text>
+      <text class="org"  x="140" y="120">Balasinor College of Polytechnic</text>
+      <line class="stem" x1="140" y1="134" x2="140" y2="166"/>
+    </g>
+    <circle class="node edu ring s0" cx="140" cy="180" r="10"/>
+
+    <!-- 1 · Oct 2018 · ScrumBees (below) -->
+    <g class="label down s1">
+      <line class="stem" x1="318" y1="194" x2="318" y2="226"/>
+      <text class="date" x="318" y="246">OCT 2018 – APR 2019</text>
+      <text class="role" x="318" y="270">Web Developer Intern</text>
+      <text class="org"  x="318" y="290">ScrumBees Technologies, Vadodara</text>
+    </g>
+    <circle class="node work ring s1" cx="318" cy="180" r="10"/>
+
+    <!-- 2 · 2019 · B.E. (above) -->
+    <g class="label up s2">
+      <text class="date" x="496" y="76">2019</text>
+      <text class="role" x="496" y="100">B.E., Computer Science</text>
+      <text class="org"  x="496" y="120">KJ Institute of Engineering &amp; Technology</text>
+      <line class="stem" x1="496" y1="134" x2="496" y2="166"/>
+    </g>
+    <circle class="node edu ring s2" cx="496" cy="180" r="10"/>
+
+    <!-- 3 · Aug 2020 · SysTrack (below) -->
+    <g class="label down s3">
+      <line class="stem" x1="674" y1="194" x2="674" y2="226"/>
+      <text class="date" x="674" y="246">AUG 2020 – OCT 2020</text>
+      <text class="role" x="674" y="270">Web Developer</text>
+      <text class="org"  x="674" y="290">SysTrack Solution Pvt. Ltd., Vadodara</text>
+    </g>
+    <circle class="node work ring s3" cx="674" cy="180" r="10"/>
+
+    <!-- 4 · Feb 2021 · KERYAR (above) -->
+    <g class="label up s4">
+      <text class="date" x="852" y="76">FROM FEB 2021</text>
+      <text class="role" x="852" y="100">Senior Web Developer</text>
+      <text class="org"  x="852" y="120">KERYAR, Anand · Intern program lead</text>
+      <line class="stem" x1="852" y1="134" x2="852" y2="166"/>
+    </g>
+    <circle class="node work ring s4" cx="852" cy="180" r="10"/>
+
+    <!-- 5 · Now · ZarklyX (below) -->
+    <g class="label down s5">
+      <line class="stem" x1="1030" y1="194" x2="1030" y2="226"/>
+      <text class="date" x="1030" y="246">NOW</text>
+      <text class="role" x="1030" y="270">Product Management &amp; Development</text>
+      <text class="org"  x="1030" y="290">ZarklyX · Agency SaaS platform</text>
+    </g>
+    <circle class="pulse" cx="1030" cy="180" r="10"/>
+    <circle class="node work ring s5" cx="1030" cy="180" r="10"/>
+  </g>
+
+  <!-- legend -->
+  <g class="sans" font-size="13" fill="#94a3b8">
+    <circle cx="44" cy="332" r="6" class="work"/><text x="56" y="337">Work</text>
+    <circle cx="112" cy="332" r="6" class="edu"/><text x="124" y="337">Education</text>
+  </g>
+</svg>

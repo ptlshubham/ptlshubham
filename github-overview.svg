@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub overview for @ptlshubham</title>
+  <desc id="desc">Contributions (12 months): 1,708. Active days (12 months): 231. Pull requests: 21. Public repositories: 4. Most in a single day: 28. Years on GitHub: 6. Total contributions since Jul 2020: 2,597. Current streak: 0 days. Longest streak: 8 days.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .kicker { font-size: 14px; font-weight: 700; letter-spacing: 2px; fill: #94a3b8; }
+    .big { font-size: 30px; font-weight: 800; fill: #f1f5f9; }
+    .unit { font-size: 16px; font-weight: 600; fill: #94a3b8; }
+    .label { font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+    .sub { font-size: 14px; fill: #94a3b8; }
+    .in { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .ring { stroke-dasharray: 289.0; stroke-dashoffset: 289.0; animation: draw 1.4s cubic-bezier(.4,0,.2,1) .4s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .in, .grow, .ring { animation: none; } .in { opacity: 1; } .ring { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="587" height="259" rx="18" fill="#0f172a" stroke="#1e293b"/>
+  <text class="kicker" x="32" y="44">GITHUB OVERVIEW · @PTLSHUBHAM</text>
+    <g class="in" style="animation-delay:0.10s">
+      <text class="big" x="32" y="100">1,708</text>
+      <text class="sub" x="32" y="122">Contributions (12 months)</text></g>
+    <g class="in" style="animation-delay:0.18s">
+      <text class="big" x="312" y="100">231</text>
+      <text class="sub" x="312" y="122">Active days (12 months)</text></g>
+    <g class="in" style="animation-delay:0.26s">
+      <text class="big" x="32" y="158">21</text>
+      <text class="sub" x="32" y="180">Pull requests</text></g>
+    <g class="in" style="animation-delay:0.34s">
+      <text class="big" x="312" y="158">4</text>
+      <text class="sub" x="312" y="180">Public repositories</text></g>
+    <g class="in" style="animation-delay:0.42s">
+      <text class="big" x="32" y="216">28</text>
+      <text class="sub" x="32" y="238">Most in a single day</text></g>
+    <g class="in" style="animation-delay:0.50s">
+      <text class="big" x="312" y="216">6</text>
+      <text class="sub" x="312" y="238">Years on GitHub</text></g>
+
+  <rect x="612.5" y="0.5" width="587" height="259" rx="18" fill="#0f172a" stroke="#1e293b"/>
+  <text class="kicker" x="644" y="44">CONTRIBUTION STREAK</text>
+  <line x1="808" y1="90" x2="808" y2="222" stroke="#1e293b"/>
+  <line x1="1004" y1="90" x2="1004" y2="222" stroke="#1e293b"/>
+  <g text-anchor="middle">
+    <g class="in" style="animation-delay:.15s">
+      <text class="big" x="710" y="140">2,597</text>
+      <text class="label" x="710" y="172">Total contributions</text>
+      <text class="sub" x="710" y="194">Since Jul 2020</text>
+    </g>
+    <circle cx="906" cy="128" r="46" fill="none" stroke="#1e293b" stroke-width="6"/>
+    <circle class="ring" cx="906" cy="128" r="46" fill="none" stroke="#9085e9" stroke-width="6" stroke-linecap="round" transform="rotate(-90 906 128)"/>
+    <g class="in" style="animation-delay:.3s">
+      <text class="big" x="906" y="139">0</text>
+      <text class="label" x="906" y="204">Current streak</text>
+      <text class="sub" x="906" y="226">No active streak</text>
+    </g>
+    <g class="in" style="animation-delay:.45s">
+      <text class="big" x="1102" y="140">8<tspan class="unit"> days</tspan></text>
+      <text class="label" x="1102" y="172">Longest streak</text>
+      <text class="sub" x="1102" y="194">Jan 4 – Jan 11, 2026</text>
+    </g>
+  </g>
+</svg>

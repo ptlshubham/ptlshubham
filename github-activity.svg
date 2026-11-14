@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Weekly GitHub contributions, last 52 weeks</title>
+  <desc id="desc">1,653 contributions in the last 52 weeks. Busiest week: 93 contributions, week of Apr 26, 2026.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .kicker { font-size: 14px; font-weight: 700; letter-spacing: 2px; fill: #94a3b8; }
+    .big { font-size: 30px; font-weight: 800; fill: #f1f5f9; }
+    .unit { font-size: 16px; font-weight: 600; fill: #94a3b8; }
+    .label { font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+    .sub { font-size: 14px; fill: #94a3b8; }
+    .in { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .tick { font-size: 13px; fill: #64748b; }
+    .peak { font-size: 14px; font-weight: 700; fill: #e2e8f0; }
+    .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .6s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes grow { to { transform: scaleY(1); } }
+    @media (prefers-reduced-motion: reduce) { .in, .grow, .ring { animation: none; } .in { opacity: 1; } .grow { transform: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="#0f172a" stroke="#1e293b"/>
+  <text class="kicker" x="32" y="44">CONTRIBUTIONS · LAST 52 WEEKS</text>
+  <text class="sub" x="1168" y="44" text-anchor="end"><tspan class="label">1,653</tspan> contributions</text>
+  
+  <line x1="72" y1="262.0" x2="1168" y2="262.0" stroke="#334155"/>
+  <text class="tick" x="60" y="266.0" text-anchor="end">0</text>
+  <line x1="72" y1="173.0" x2="1168" y2="173.0" stroke="#1e293b"/>
+  <text class="tick" x="60" y="177.0" text-anchor="end">50</text>
+  <line x1="72" y1="84.0" x2="1168" y2="84.0" stroke="#1e293b"/>
+  <text class="tick" x="60" y="88.0" text-anchor="end">100</text>
+    <path class="grow" style="animation-delay:0.200s" d="M75.0 262V209.0a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Nov 16, 2025: 32</title></path>
+    <path class="grow" style="animation-delay:0.218s" d="M96.1 262V201.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Nov 23, 2025: 36</title></path>
+    <path class="grow" style="animation-delay:0.236s" d="M117.2 262V200.1a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Nov 30, 2025: 37</title></path>
+    <path class="grow" style="animation-delay:0.254s" d="M138.2 262V260.2a1.7800000000000011 1.7800000000000011 0 0 1 1.7800000000000011 -1.7800000000000011h11.5a1.7800000000000011 1.7800000000000011 0 0 1 1.7800000000000011 1.7800000000000011V262z" fill="#9085e9"><title>Week of Dec 7, 2025: 2</title></path>
+    <path class="grow" style="animation-delay:0.272s" d="M159.3 262V253.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Dec 14, 2025: 7</title></path>
+    <path class="grow" style="animation-delay:0.290s" d="M180.4 262V221.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Dec 21, 2025: 25</title></path>
+    <path class="grow" style="animation-delay:0.308s" d="M201.5 262V221.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Dec 28, 2025: 25</title></path>
+    <path class="grow" style="animation-delay:0.326s" d="M222.5 262V196.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jan 4, 2026: 39</title></path>
+    <path class="grow" style="animation-delay:0.344s" d="M243.6 262V237.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jan 11, 2026: 16</title></path>
+    <path class="grow" style="animation-delay:0.362s" d="M264.7 262V180.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jan 18, 2026: 48</title></path>
+    <path class="grow" style="animation-delay:0.380s" d="M285.8 262V212.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jan 25, 2026: 30</title></path>
+    <path class="grow" style="animation-delay:0.398s" d="M306.8 262V259.3a2.6699999999999875 2.6699999999999875 0 0 1 2.6699999999999875 -2.6699999999999875h9.7a2.6699999999999875 2.6699999999999875 0 0 1 2.6699999999999875 2.6699999999999875V262z" fill="#9085e9"><title>Week of Feb 1, 2026: 3</title></path>
+    <path class="grow" style="animation-delay:0.416s" d="M327.9 262V246.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Feb 8, 2026: 11</title></path>
+    <path class="grow" style="animation-delay:0.434s" d="M349.0 262V207.3a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Feb 15, 2026: 33</title></path>
+    <path class="grow" style="animation-delay:0.452s" d="M370.1 262V185.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Feb 22, 2026: 45</title></path>
+    <path class="grow" style="animation-delay:0.470s" d="M391.2 262V232.2a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Mar 1, 2026: 19</title></path>
+    <path class="grow" style="animation-delay:0.488s" d="M412.2 262V244.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Mar 8, 2026: 12</title></path>
+    <path class="grow" style="animation-delay:0.506s" d="M433.3 262V214.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Mar 15, 2026: 29</title></path>
+    <path class="grow" style="animation-delay:0.524s" d="M454.4 262V198.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Mar 22, 2026: 38</title></path>
+    <path class="grow" style="animation-delay:0.542s" d="M475.5 262V168.1a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Mar 29, 2026: 55</title></path>
+    <path class="grow" style="animation-delay:0.560s" d="M496.5 262V182.3a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Apr 5, 2026: 47</title></path>
+    <path class="grow" style="animation-delay:0.578s" d="M517.6 262V143.2a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Apr 12, 2026: 69</title></path>
+    <path class="grow" style="animation-delay:0.596s" d="M538.7 262V212.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Apr 19, 2026: 30</title></path>
+    <path class="grow" style="animation-delay:0.614s" d="M559.8 262V100.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Apr 26, 2026: 93</title></path>
+    <text class="peak in" style="animation-delay:1.2s" x="567.3" y="88.5" text-anchor="middle">93</text>
+    <path class="grow" style="animation-delay:0.632s" d="M580.8 262V157.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of May 3, 2026: 61</title></path>
+    <path class="grow" style="animation-delay:0.650s" d="M601.9 262V209.0a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of May 10, 2026: 32</title></path>
+    <path class="grow" style="animation-delay:0.668s" d="M623.0 262V251.8a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of May 17, 2026: 8</title></path>
+    <path class="grow" style="animation-delay:0.686s" d="M644.1 262V242.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of May 24, 2026: 13</title></path>
+    <path class="grow" style="animation-delay:0.704s" d="M665.2 262V205.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of May 31, 2026: 34</title></path>
+    <path class="grow" style="animation-delay:0.722s" d="M686.2 262V205.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jun 7, 2026: 34</title></path>
+    <path class="grow" style="animation-delay:0.740s" d="M707.3 262V223.3a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jun 14, 2026: 24</title></path>
+    <path class="grow" style="animation-delay:0.758s" d="M728.4 262V198.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jun 21, 2026: 38</title></path>
+    <path class="grow" style="animation-delay:0.776s" d="M749.5 262V128.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jun 28, 2026: 77</title></path>
+    <path class="grow" style="animation-delay:0.794s" d="M770.5 262V185.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jul 5, 2026: 45</title></path>
+    <path class="grow" style="animation-delay:0.812s" d="M791.6 262V200.1a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jul 12, 2026: 37</title></path>
+    <path class="grow" style="animation-delay:0.830s" d="M812.7 262V244.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jul 19, 2026: 12</title></path>
+    <path class="grow" style="animation-delay:0.848s" d="M833.8 262V196.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Jul 26, 2026: 39</title></path>
+    <path class="grow" style="animation-delay:0.866s" d="M854.8 262V237.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Aug 2, 2026: 16</title></path>
+    <path class="grow" style="animation-delay:0.884s" d="M875.9 262V228.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Aug 9, 2026: 21</title></path>
+    <path class="grow" style="animation-delay:0.902s" d="M897.0 262V228.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Aug 16, 2026: 21</title></path>
+    <path class="grow" style="animation-delay:0.920s" d="M918.1 262V196.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Aug 23, 2026: 39</title></path>
+    <path class="grow" style="animation-delay:0.938s" d="M939.2 262V212.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Aug 30, 2026: 30</title></path>
+    <path class="grow" style="animation-delay:0.956s" d="M960.2 262V234.0a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Sep 6, 2026: 18</title></path>
+    <path class="grow" style="animation-delay:0.974s" d="M981.3 262V185.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Sep 13, 2026: 45</title></path>
+    <path class="grow" style="animation-delay:0.992s" d="M1002.4 262V246.4a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Sep 20, 2026: 11</title></path>
+    <path class="grow" style="animation-delay:1.010s" d="M1023.5 262V228.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Sep 27, 2026: 21</title></path>
+    <path class="grow" style="animation-delay:1.028s" d="M1044.5 262V250.0a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Oct 4, 2026: 9</title></path>
+    <path class="grow" style="animation-delay:1.046s" d="M1065.6 262V169.9a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Oct 11, 2026: 54</title></path>
+    <path class="grow" style="animation-delay:1.064s" d="M1086.7 262V194.8a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Oct 18, 2026: 40</title></path>
+    <path class="grow" style="animation-delay:1.082s" d="M1107.8 262V155.6a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Oct 25, 2026: 62</title></path>
+    <path class="grow" style="animation-delay:1.100s" d="M1128.8 262V232.2a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Nov 1, 2026: 19</title></path>
+    <path class="grow" style="animation-delay:1.118s" d="M1149.9 262V253.5a4 4 0 0 1 4 -4h7.1a4 4 0 0 1 4 4V262z" fill="#9085e9"><title>Week of Nov 8, 2026: 7</title></path>
+  <text class="tick" x="72.0" y="286">Nov ’25</text><text class="tick" x="135.2" y="286">Dec</text><text class="tick" x="219.5" y="286">Jan ’26</text><text class="tick" x="303.8" y="286">Feb</text><text class="tick" x="388.2" y="286">Mar</text><text class="tick" x="493.5" y="286">Apr</text><text class="tick" x="577.8" y="286">May</text><text class="tick" x="683.2" y="286">Jun</text><text class="tick" x="767.5" y="286">Jul</text><text class="tick" x="851.8" y="286">Aug</text><text class="tick" x="957.2" y="286">Sep</text><text class="tick" x="1041.5" y="286">Oct</text><text class="tick" x="1125.8" y="286">Nov</text>
+  
+</svg>
